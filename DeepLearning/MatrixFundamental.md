@@ -57,4 +57,5 @@ C = \begin{pmatrix}
 43 & 50 
 \end{pmatrix}
 $$
+
 ![Image Example](./MultiplyingMatrices.png)
