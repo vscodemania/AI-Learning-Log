@@ -1,3 +1,5 @@
 # AI-Learning-Log
 my Learning log about AI
-check out the codes!
+
+## [Deep Learning](https://github.com/vscodemania/AI-Learning-Log/blob/main/DeepLearning/README.md)
+## [Open CV]()
